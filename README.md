@@ -28,6 +28,6 @@ I love, apply and promote standards, best practices and good code documentation 
   `HTML` `JS` `CSS` `Angular` `Mocha` `Chai`
 
   `Sistems design` `Prototyping` `coding best practices` `standars` `linters` `code documentation` `CI` `Visual Studio` `VSCode` `Unit test`
-<hr>
+
 ### Relevant projects
 TODO
