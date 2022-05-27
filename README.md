@@ -28,11 +28,6 @@ I love, apply and promote standards, best practices and good code documentation 
   `HTML` `JS` `CSS` `Angular` `Mocha` `Chai`
 
   `Sistems design` `Prototyping` `coding best practices` `standars` `linters` `code documentation` `CI` `Visual Studio` `VSCode` `Unit test`
-
-### Repos
-- - -
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ehsomma&repo=mydao&show_owner=false)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ehsomma&repo=myblockchain&show_owner=false)](https://github.com/anandmainali/Foods-Ecommerce)
-
+<hr>
 ### Relevant projects
 TODO
