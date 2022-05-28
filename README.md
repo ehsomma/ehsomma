@@ -6,7 +6,7 @@
 
 I am a software engineer passionate about technology and software solution development.
 
-I am currently working on a large vehicle booking management project for passenger transfer (such as Cabify/Uber/DiDi etc.), developing the apps/systems for passengers, drivers, operative management of the entire fleet of vehicles (dispatcher), shipments, cargo routing and the backend system of the entire company.
+I am currently working on a large vehicle booking management project for passenger transfer (such as Cabify, Uber, DiDi, etc.), developing the apps/systems for passengers, drivers, operative management of the entire fleet of vehicles (dispatcher), shipments, cargo routing and the backend system of the entire company.
 
 I love, apply and promote standards, best practices and good code documentation to build solutions with the best code quality.
 
