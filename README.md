@@ -60,8 +60,9 @@ Expand to see the content.
  <summary><b>BalloonDialog© / BallonIt© 🥇</b><span style="color:grey"> (Owner and developer - 2000)</span></summary>
  <br>
  This is by far my most loved work ever! 💪<br>
- <b>BalloonDialog</b> is a tool for developers to interact users with Microsoft MSAgent© (under Microsoft license) like Clippy, Merlin, Genie, etc. This tool was sold around the world!
- The Microsoft Agent technology was deprecated by Microsoft and replaced by Cortana.
+ <b>BalloonDialog</b> is a tool for developers to interact users with Microsoft MSAgent© (under Microsoft license) like Merlin, Genie, Robbie, etc.<br>
+ This tool was sold around the world and it was used by many developers and companies.<br>
+ The Microsoft Agent technology was deprecated by Microsoft and replaced by Cortana.<br><br>
  Merlin, Genie, Robbie, Clippy… I miss you.<br><br>
  
  [BalloonDialog - home...](http://www.sommytech.com.ar/balloondialog/home.htm)<br> 
