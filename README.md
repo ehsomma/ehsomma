@@ -40,7 +40,7 @@ Expand to see the content.
  ![banner](https://raw.githubusercontent.com/ehsomma/ehsomma/main/bookingsystem.png)
 
  Technologies<br>
- `.Net/Core` `C#` `API RESTFul` `Swagger` `Dapper` `AutoFac (IoC)` `Google Maps APIs` `TomTom APIs` `OSM APIs` `Unit test` `Integration test` `Mocks` `SQL Server` `MySql` `StyleCop` `Payment gateway integration` `Angular. Hosted in AWS/Firebase`
+ `.Net/Core` `C#` `API RESTFul` `Swagger` `Dapper` `AutoFac (IoC)` `Google Maps APIs` `TomTom APIs` `OSM APIs` `Unit test` `Integration test` `Mocks` `SQL Server` `MySql` `StyleCop` `Payment gateway integration` `Angular` `Hosted in AWS/Firebase`
 </details>
 
 <details>
