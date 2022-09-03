@@ -23,7 +23,7 @@ I love, apply and promote standards, best practices and good code documentation 
 
   `.Net/Core` `C#` `SQL` `POO`
 
-  `Solidity` `Truffle` `Slither` `Solhint` `Web3`
+  `Solidity` `Truffle` `Hardhat` `Slither` `Solhint` `Web3.js` `Ethers.js`
 
   `HTML` `JS` `CSS` `Angular` `Mocha` `Chai`
 
