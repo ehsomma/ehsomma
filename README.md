@@ -33,7 +33,7 @@ Expand to see the content.
 <details>
   <summary><b>DDD, CQRS and Microservices chronicles</b><span style="color:grey"> (2023)</span></summary>
   <br>
-  A working example of **DDD** with **microservices**, **CQRS** and Write and Read databases. This document, in addition to the code, contains comments about the decisions that we made to select architectures, guidelines, definitions, patterns and tools.
+  A working example of <b>DDD</b> with <b>microservices</b>, <b>CQRS</b> and Write and Read databases. This document, in addition to the code, contains comments about the decisions that we made to select architectures, guidelines, definitions, patterns and tools.
 
   [Repository...](https://github.com/ehsomma/ddd-cqrs-microservices)
 </details>
