@@ -13,15 +13,13 @@ I love, apply and promote standards, best practices and good code documentation 
 🎯 Currently passionate about cryptocurrencies, <u>blockchain development</u> (`smart contracts`) and everything about the crypto world.
 <br>
 <br>
-- 💬 Ask me about **Solidity, Smart contracts, API RESTFul, .Net, Sistems design, Prototyping, , best practices, standars, code documentation, linters, OneNote.**
+- 💬 Ask me about **Solidity, Smart contracts, DDD, CQRS, Microservices, API RESTFul, .Net, Sistems design, Prototyping, best practices, standars, code documentation, linters, OneNote.**
 
 - 📫 Connect with me **[linkedin](https://www.linkedin.com/in/estebanhugosomma/?locale=en_US)**
 
-- 🌱 I’m currently learning **Smart contract security analysis tools.**
-
 - 🛠 Tech stack
 
-  `.Net/Core` `C#` `SQL` `POO`
+  `.Net/Core` `C#` `SQL` `POO` `SOLID` `DDD` `CQRS` `Microservices`
 
   `Solidity` `Truffle` `Hardhat` `Slither` `Solhint` `Web3.js` `Ethers.js`
 
@@ -31,6 +29,14 @@ I love, apply and promote standards, best practices and good code documentation 
 
 ## Relevant projects
 Expand to see the content.
+
+<details>
+  <summary><b>DDD, CQRS and Microservices chronicles</b><span style="color:grey"> (2023)</span></summary>
+  <br>
+  A working example of **DDD** with **microservices**, **CQRS** and Write and Read databases. This document, in addition to the code, contains comments about the decisions that we made to select architectures, guidelines, definitions, patterns and tools.
+
+  [Repository...](https://github.com/ehsomma/ddd-cqrs-microservices)
+</details>
 
 <details>
  <summary><b>Transfers booking system</b><span style="color:grey"> (2007 - current)</span></summary>
